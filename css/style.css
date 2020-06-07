@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+.navbar {
+    background: #2ECC71 ;
+}
+
+.quemsomos{
+    background-color: black;
+    color: turquoise;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+
+.Parceiros{
+    background-color: blue;
+    color: coral;
+}
+
+.margin{
+    padding-bottom: 50px;
+}
+
+.Serviços{
+    background-color: orangered;
+    color: white;
+}
